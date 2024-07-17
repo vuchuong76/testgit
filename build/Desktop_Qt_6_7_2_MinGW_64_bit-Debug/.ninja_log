@@ -1,0 +1,23 @@
+# ninja log v6
+5	434	7429280199231574	1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+5	434	7429280199231574	1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+5	434	7429280199231574	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+5	434	7429280199231574	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+440	1927	7429280199783161	CMakeFiles/1-1TeaserDemo.dir/main.cpp.obj	1acd40d0ac0e4233
+438	1928	7429280199753071	CMakeFiles/1-1TeaserDemo.dir/1-1TeaserDemo_autogen/mocs_compilation.cpp.obj	83152b6dcef7fb
+442	2245	7429280199803137	CMakeFiles/1-1TeaserDemo.dir/widget.cpp.obj	12b87082c1c5fab6
+2246	2403	7429280217843751	1-1TeaserDemo.exe	8005dd9f19368fb1
+18	423	7429282100332916	1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+18	423	7429282100332916	1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+18	423	7429282100332916	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+18	423	7429282100332916	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+424	2055	7429282100832921	CMakeFiles/1-1TeaserDemo.dir/1-1TeaserDemo_autogen/mocs_compilation.cpp.obj	83152b6dcef7fb
+426	2121	7429282100852870	CMakeFiles/1-1TeaserDemo.dir/main.cpp.obj	1acd40d0ac0e4233
+428	2375	7429282100872822	CMakeFiles/1-1TeaserDemo.dir/widget.cpp.obj	12b87082c1c5fab6
+2375	2512	7429282120346023	1-1TeaserDemo.exe	8005dd9f19368fb1
+22	141	7429285012735896	1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+22	141	7429285012735896	1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+22	141	7429285012735896	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/timestamp	5396bd4a919b4814
+22	141	7429285012735896	C:/Users/user/Documents/1-1TeaserDemo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/1-1TeaserDemo_autogen/mocs_compilation.cpp	5396bd4a919b4814
+142	1947	7429285013932173	CMakeFiles/1-1TeaserDemo.dir/widget.cpp.obj	12b87082c1c5fab6
+1947	2086	7429285031984047	1-1TeaserDemo.exe	8005dd9f19368fb1
